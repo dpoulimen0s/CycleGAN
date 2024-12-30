@@ -50,3 +50,4 @@ This repository contains a detailed implementation of a CycleGAN model for unpai
   - Results are stored in the `/content/pytorch-CycleGAN-and-pix2pix/results/part_1/test_latest/images` directory.
 
 ### 7. Results
+![Results](cyclegan.png)
